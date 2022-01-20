@@ -15,10 +15,17 @@ const splitsElement = document.getElementById('splits');
 
 function printTime() {
   // ... your code goes here
+  printMinutes();
+  printSeconds();
+  printMilliseconds();
+
 }
 
 function printMinutes() {
   // ... your code goes here
+  minDec.innerHTML = chronometer.
+  
+  
 }
 
 function printSeconds() {
